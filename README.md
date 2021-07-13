@@ -13,7 +13,7 @@ HTML, CSS, Materialize.css, JavaScript
 
 <!-- Explanation of what the app is -->
 
-This is an app in which the user can filter through a list of names by typing in a letter in teh input search bar. The list changes to only show the names which contain the letters which they type so that it's easier/quicker to find who they're looking for in the list.
+This is an app in which the user can filter through a list of names by typing in a letter in the input search bar. The list changes to only show the names which contain the letters which they type so that it's easier/quicker to find who they're looking for in the list.
 
 <!-- Screenshot -->
 <img src="./img1.png">
